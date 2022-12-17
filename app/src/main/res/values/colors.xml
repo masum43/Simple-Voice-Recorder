@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="color_primary">#DB2626</color>
+    <color name="white">#FFFFFF</color>
+    <color name="tab_selected_color">#FFFFFF</color>
+    <color name="tab_unselected_color">#57FFFFFF</color>
+
 
 </resources>
